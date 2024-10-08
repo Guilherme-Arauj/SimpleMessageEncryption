@@ -6,7 +6,7 @@ Os programadores Guilherme Araujo, Iaman Lagares e Arisson Santos desenvolveram 
 
 
 
-EXPLICACÃO DO CÓDIGO (criptografia)
+EXPLICACÃO DO CÓDIGO (Criptografia)
 
 Esse código que temos aqui é um programa em C que realiza uma criptografia simples de mensagens utilizando uma chave numérica. O objetivo é tornar a mensagem ilegível para quem não conhece a chave.
 
